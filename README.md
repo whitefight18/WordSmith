@@ -28,6 +28,8 @@ Additional Features included:
 
 After completion of execution, the tool will create a file with the supplied file-name, or make a default `Wordlist.txt`, if no file-name is provided, along with the custom generated passwords kept inside the same.
 
+![image](https://github.com/whitefight18/WordSmith/assets/62407496/e6c9333a-5130-419d-976d-52a8116587ba)
+
 ### Credits:
 
 Thanks to the itertools library.
