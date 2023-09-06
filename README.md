@@ -1,7 +1,7 @@
 # WordSmith - Custom Wordlist Generator
 A tool written in python to generate custom, tailored wordlist based on target's information.  
 
-![GitHub top language](https://img.shields.io/github/languages/top/whitefight18/Malicious_URL_Analyzer?style=flat-square&logo=python&logoColor=lightblue)  ![GitHub](https://img.shields.io/github/license/whitefight18/Malicious_URL_Analyzer?color=gree&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/whitefight18/WordSmith?style=flat-square&logo=python&logoColor=lightblue)  ![GitHub](https://img.shields.io/github/license/whitefight18/WordSmith?color=gree&style=flat-square)
 
 ## Requirements:
 `Terminal/Any CLI` for using this tool.  
@@ -30,7 +30,7 @@ After completion of execution, the tool will create a file with the supplied fil
 
 ### Credits:
 
-Thanks to itertools library
+Thanks to the itertools library.
 
 Shoutout to my team members for their support -
  - [Chiranjiv Chetia](https://github.com/chiranjiv11/)
